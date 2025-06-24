@@ -30,6 +30,6 @@ Forget wasting time writing scripts to populate databases or messing with expens
 
 ## Get Started Today
 
-[Check out Datajuice here](https://datajuice.dev) and start generating your own data in minutes.
+[Check out Datajuice here](https://datajuice-next-3tf6.vercel.app/) and start generating your own data in minutes.
 
 ---
